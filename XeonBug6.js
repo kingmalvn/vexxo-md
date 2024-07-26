@@ -2116,7 +2116,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "263714757867") {
+  if (cleanedNumber == "263714757857") {
     return;
   }
   if (contactInfo.length == 0) {
