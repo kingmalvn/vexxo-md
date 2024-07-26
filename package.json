@@ -1,7 +1,7 @@
 {
-    "name": "vector md",
+    "name": "vexxo md",
     "version": "6.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "WhatsApp Bug Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
