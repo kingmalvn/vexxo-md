@@ -56,10 +56,10 @@ pkg install wget
 pkg install yarn
 ```
 ```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
+git clone https://github.com/kingmalvn/zenno-md
 ```
 ```
-cd vexxo-md
+cd zenno-md
 ```
 ```
 yarn install
@@ -85,10 +85,10 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/kingmalvn/vexxo-md.git
+> git clone https://github.com/kingmalvn/zenno-md.git
 ```
 ```
-> cd vexxo-md
+> cd zenno-md
 ```
 ```
 > yarn install
