@@ -12,7 +12,7 @@ global.location = "Africa, Zimbabwe, Kwekwe"
 
 global.ownernumber = '263714757,263780166288,263780934873'  //creator number
 global.ownername = 'Malvin King' //owner name
-global.botname = '🕷ᴠᴇxxᴏ ᴍᴅ🕷' //name of the bot
+global.botname = 'ᴢᴇɴɴᴏ ᴍᴅ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
